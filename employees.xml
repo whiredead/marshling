@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<wrapper>
+    <employees id="1">
+        <nom>El hachmy</nom>
+        <salaire>0</salaire>
+    </employees>
+    <employees id="1">
+        <nom>yahya</nom>
+        <salaire>10000</salaire>
+    </employees>
+    <employees id="1">
+        <nom>hamza</nom>
+        <salaire>50000</salaire>
+    </employees>
+</wrapper>
